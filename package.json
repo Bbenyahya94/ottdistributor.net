@@ -1,0 +1,10 @@
+{
+  "name": "ottdistributor-static-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "generate:seo": "node scripts/generate-seo-pages.js"
+  },
+  "engines": { "node": ">=18" }
+}

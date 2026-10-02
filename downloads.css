@@ -1,0 +1,1 @@
+.download-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.download-card{background:var(--panel);border:1px solid var(--line);padding:24px}.download-card b{color:var(--lime)}@media(max-width:700px){.download-grid{grid-template-columns:1fr}}

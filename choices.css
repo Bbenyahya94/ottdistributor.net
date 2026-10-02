@@ -1,0 +1,2 @@
+/* Panel filters, pricing selectors and comparison controls. */
+.choice-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.choice{border:1px solid var(--line);padding:18px}.choice.active{border-color:var(--lime);box-shadow:0 0 0 1px var(--lime)}@media(max-width:700px){.choice-grid{grid-template-columns:1fr}}
